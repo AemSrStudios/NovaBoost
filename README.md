@@ -1,3 +1,4 @@
+<img width="1254" height="1254" alt="NovaBoost Neon Tech Emblem" src="https://github.com/user-attachments/assets/aa456e58-abd3-4d23-a7f0-f2633ab452de" />
 # ⚡ NovaBoost
 
 ### Push your PC further. Take control of your performance.
@@ -150,3 +151,21 @@ You are welcome to inspect, modify, and contribute to the project under the term
 ### ⚡ NovaBoost — Performance tuning without the paywall.
 
 **Free to use. Open to inspect. Built to improve.**
+## ☕ Support NovaBoost
+
+Enjoying NovaBoost? Help support its development! 💙
+
+NovaBoost is a free, open-source Windows optimization project built for gamers who want more control over their systems.
+
+If you like the project, you can support development here:
+
+### 🇮🇷 Support NovaBoost
+**[☕ Donate via Reymit](https://reymit.ir/s0me_sam)**
+
+Every contribution is appreciated and helps motivate future development.
+
+- 💙 No subscriptions
+- ⚡ No premium features
+- 🔓 Free and open source
+
+**NovaBoost will always aim to remain free. Thank you for being part of the project!**
